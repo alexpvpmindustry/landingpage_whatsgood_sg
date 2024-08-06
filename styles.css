@@ -1,0 +1,151 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #333;
+    background-color: #f9f9f9;
+}
+
+header {
+    background-color: #a33615;
+    color: white;
+    padding: 1rem 0;
+}
+
+.logo img {
+    max-height: 80px; /* Adjust the logo size */
+    width: auto;
+    margin-right: 15px;
+    vertical-align: middle;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+    background-color: #a33615; /* Matches the theme color */
+}
+
+.logo a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: white;
+}
+
+.nav-links a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+}
+
+.nav-links li {
+    margin-left: 20px;
+}
+
+
+.nav-links a:hover {
+    color: #ffcc00;
+}
+
+.hero {
+    background-image: url('https://source.unsplash.com/random/1600x900');
+    background-size: cover;
+    background-position: center;
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #a33615;
+    text-align: center;
+}
+
+.hero-text h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+}
+
+.hero-text p {
+    font-size: 1.2rem;
+}
+
+.features, .vision {
+    padding: 40px 20px;
+    background-color: #fff;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.features h2, .vision h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: #a33615; 
+}
+
+.feature {
+    margin-bottom: 20px;
+}
+
+.feature ul {
+    list-style: none;
+    padding: 0;
+}
+
+.feature li {
+    margin-bottom: 10px;
+}
+
+.feature a {
+    color: #a33615;
+    text-decoration: underline;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+.feature a:hover {
+    color: #ffcc00;
+}
+
+footer {
+    background-color: #a33615;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.footer-links {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+
+.footer-links li {
+    margin: 0 15px;
+}
+
+.footer-links a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+.footer-links a:hover {
+    color: #ffcc00;
+}
