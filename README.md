@@ -18,3 +18,5 @@ Beenies pants https://s.shopee.sg/2qIqnJj11N
 Einmilk Baby Wet Wipe https://s.shopee.sg/8pa7TyhTQW
 
 Lactogen Milk Powder https://s.shopee.sg/6KsmUxSINQ
+
+parentcraft Lactogen Milk Powder https://s.shopee.sg/8ztXrwW5kB
