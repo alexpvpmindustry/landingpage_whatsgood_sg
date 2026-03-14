@@ -11,7 +11,7 @@ Handheld Massager https://s.shopee.sg/4q3vAlC7bJ
 
 Android TV box - https://s.shopee.sg/yfPyeTKK
 
-Beenies tape https://s.shopee.sg/2qIqmm8mQt
+Beenies tape https://s.shopee.sg/2qIqmm8mQt 
 
 Beenies pants https://s.shopee.sg/2qIqnJj11N
 
