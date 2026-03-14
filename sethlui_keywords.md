@@ -1,0 +1,10 @@
+east coast lagoon food village	Informational	1 (Image)	Image, Video, Knowledge panel, Related searches	23265	1.43	49500	28	https://sethlui.com/east-coast-lagoon-food-village-food-guide-singapore/	3 days
+golden mile food centre	Informational	1 (Image)	Image, Video, Knowledge panel, Related searches	19035	1.17	40500	31	https://sethlui.com/golden-mile-food-centre-guide-singapore/	3 days
+maxwell food centre	Informational	3 (Image)	Image, Video, Knowledge panel, Related searches, Short videos	14850	0.91	165000	44	https://sethlui.com/maxwell-market-singapore/	3 days
+geylang serai market and food centre	Informational	1 (Image)	Sitelinks, Image, Video, Knowledge panel, Related searches	12737	0.78	27100	31	https://sethlui.com/geylang-serai-market-food-centre-guide-singapore/	3 days
+chomp chomp food centre	Informational	1 (Image)	Sitelinks, Image, Image pack, Video, Knowledge panel, Related searches	10434	0.64	22200	35	https://sethlui.com/chomp-chomp-food-centre-guide-singapore/	2 days
+seah im food centre	Informational	1 (Image)	Image, Video, Knowledge panel, Related searches	10434	0.64	22200	31	https://sethlui.com/seah-im-food-centre-food-guide-singapore/	4 days
+fusionopolis	Informational	1 (Image)	Image, Video, Knowledge panel, Related searches	10434	0.64	22200	33	https://sethlui.com/fusionopolis-food-guide-singapore/	2 days
+simpang bedok	Informational	1	Image, Image pack, Video, Knowledge panel, Related searches	10434	0.64	22200	27	https://sethlui.com/simpang-bedok-food-guide-singapore/	1 day
+ayer rajah food centre	Informational	1 (Image)	Image, Video, Knowledge panel, Related searches	8507	0.52	18100	31	https://sethlui.com/ayer-rajah-food-centre-guide-singapore/	2 days
+taman jurong market and food centre	Informational	1 (Image)	Image, Image pack, Video, Knowledge panel, Related searches	8507	0.52	18100	26	https://sethlui.com/taman-jurong-food-centre-guide-singapore/	Mar 09
